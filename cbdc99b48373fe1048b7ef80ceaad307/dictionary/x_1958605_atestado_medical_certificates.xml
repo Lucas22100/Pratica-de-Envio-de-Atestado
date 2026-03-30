@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="46f7e5fc83b3fe1048b7ef80ceaad3ba" extends="task" label="Medical Certificates" max_length="40" name="x_1958605_atestado_medical_certificates" type="collection">
+        <element label="Reason" max_length="100" name="reason" type="string"/>
+        <element label="Absence date" max_length="40" name="absence_date" type="glide_date"/>
+        <element label="Employee" max_length="32" name="employee" reference="x_1958605_atestado_employees" type="reference"/>
+    </element>
+</database>

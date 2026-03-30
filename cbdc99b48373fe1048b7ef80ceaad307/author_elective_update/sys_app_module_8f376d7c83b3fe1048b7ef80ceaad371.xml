@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Medical Certificate Management">cf376d7c83b3fe1048b7ef80ceaad369</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Colaborators</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1958605_atestado_colaborators</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1958605_atestado.colaborators_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:23:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f376d7c83b3fe1048b7ef80ceaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Colaborators</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope>
+        <sys_update_name>sys_app_module_8f376d7c83b3fe1048b7ef80ceaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:23:05</sys_updated_on>
+        <timeline_page/>
+        <title>Colaborators</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</application>
+        <file_path/>
+        <instance_id>4f1320c33b6b46d0677f04e0b5e45a16</instance_id>
+        <instance_name>dev278881</instance_name>
+        <name>sys_app_module_8f376d7c83b3fe1048b7ef80ceaad371</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Medical Certificate Management">cf376d7c83b3fe1048b7ef80ceaad369</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Colaborators</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1958605_atestado_colaborators</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1958605_atestado.colaborators_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-20 18:23:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8f376d7c83b3fe1048b7ef80ceaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Colaborators</sys_name><sys_overrides/><sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package><sys_policy/><sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope><sys_update_name>sys_app_module_8f376d7c83b3fe1048b7ef80ceaad371</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-20 18:23:05</sys_updated_on><timeline_page/><title>Colaborators</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>202139596</payload_hash>
+        <record_name>Colaborators</record_name>
+        <reverted_from/>
+        <source>355ed1788373fe1048b7ef80ceaad34c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:23:05</sys_created_on>
+        <sys_id>4b376d7c83b3fe1048b7ef80ceaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d0c7c98550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:23:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c7376d7cfcb3fe108b9e778cc5b11577</update_guid>
+        <update_guid_history>c7376d7cfcb3fe108b9e778cc5b11577:202139596</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Colaborators">e43c613883f3fe1048b7ef80ceaad3fc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:44:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>55af2052c38f4a18bf1bf0e4e0768040</sys_id>
+        <sys_metadata>8f376d7c83b3fe1048b7ef80ceaad371</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Colaborators</sys_name>
+        <sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope>
+        <sys_scope_delete display_value="">0e98268e3c254e588c5adcf28f673c40</sys_scope_delete>
+        <sys_update_name>sys_app_module_8f376d7c83b3fe1048b7ef80ceaad371</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8f376d7c83b3fe1048b7ef80ceaad371">4b376d7c83b3fe1048b7ef80ceaad378</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:44:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

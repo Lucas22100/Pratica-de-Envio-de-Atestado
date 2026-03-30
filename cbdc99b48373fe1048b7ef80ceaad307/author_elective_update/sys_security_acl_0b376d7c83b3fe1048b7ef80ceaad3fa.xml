@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1958605_atestado_colaborators</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1958605_atestado_colaborators</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:23:05</sys_created_on>
+        <sys_id>0b376d7c83b3fe1048b7ef80ceaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1958605_atestado_colaborators</sys_name>
+        <sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope>
+        <sys_update_name>sys_security_acl_0b376d7c83b3fe1048b7ef80ceaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:23:05</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</application>
+        <file_path/>
+        <instance_id>4f1320c33b6b46d0677f04e0b5e45a16</instance_id>
+        <instance_name>dev278881</instance_name>
+        <name>sys_security_acl_0b376d7c83b3fe1048b7ef80ceaad3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_1958605_atestado_colaborators</description><local_or_existing>Existing</local_or_existing><name>x_1958605_atestado_colaborators</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-20 18:23:05</sys_created_on><sys_id>0b376d7c83b3fe1048b7ef80ceaad3fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1958605_atestado_colaborators</sys_name><sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package><sys_policy/><sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope><sys_update_name>sys_security_acl_0b376d7c83b3fe1048b7ef80ceaad3fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-20 18:23:05</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-696388815</payload_hash>
+        <record_name>x_1958605_atestado_colaborators</record_name>
+        <reverted_from/>
+        <source>355ed1788373fe1048b7ef80ceaad34c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:23:05</sys_created_on>
+        <sys_id>8b37ad7c83b3fe1048b7ef80ceaad30b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d0c7c99c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:23:05</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>83376d7c24b3fe100e521d1f02072afe</update_guid>
+        <update_guid_history>83376d7c24b3fe100e521d1f02072afe:-696388815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-20 18:44:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>06ea58c22dee4d0c8117b905ef107064</sys_id>
+        <sys_metadata>0b376d7c83b3fe1048b7ef80ceaad3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1958605_atestado_colaborators</sys_name>
+        <sys_package display_value="Pratica de Envio de atestado" source="x_1958605_atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_package>
+        <sys_parent display_value="">4b37ad7c83b3fe1048b7ef80ceaad32a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Pratica de Envio de atestado">cbdc99b48373fe1048b7ef80ceaad307</sys_scope>
+        <sys_scope_delete display_value="">0e98268e3c254e588c5adcf28f673c40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0b376d7c83b3fe1048b7ef80ceaad3fa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0b376d7c83b3fe1048b7ef80ceaad3fa">8b37ad7c83b3fe1048b7ef80ceaad30b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-20 18:44:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
